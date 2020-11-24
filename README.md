@@ -27,3 +27,7 @@ Finally connect to this hotspot from your Android device and enjoy!
 Update!
 
 After following the guide and before enabling WiFi, restart the Network Manager with:
+
+
+
+Testing testing 
